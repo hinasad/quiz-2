@@ -1,0 +1,86 @@
+#border1 {
+    border: 1px solid black;
+}
+#border2 {
+    border-style:dotted ;
+} 
+#border3 {
+    border-style:dashed;
+}
+#border4 {
+   border-style: double; 
+}
+#border5 {
+    border-style: groove;
+}
+#border6 {
+    border-style: ridge;
+}
+#border7 {
+    border-style: inset;
+}
+#border8 {
+    border-style: outset;
+}
+.box {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 30%;
+}
+#border9{
+    background: #e6f3e6;
+}
+#border10{
+    background: #b3d9b3;
+}
+#border12{
+    background: #66b366;
+}
+#border13{
+    background: #008000;
+}
+#border14{
+    background: #e6f3e6;
+}
+#border15{
+    background: #b3d9b3;
+}
+#border16{
+    background: #66b366;
+}
+#border17{
+    background: #008000;   
+}
+.box1 {    
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 30%;
+}
+.col {
+   color: red ; 
+   text-shadow: 3px 2px 2px rgb(61, 49, 49), 2px 2px 2px rgb(249, 243, 243), 2px 2px 2px rgb(207, 233, 115);
+   font-size: 20px;
+}
+p {
+    font-size: 20px;
+    line-height: 1;font-weight: 100;
+   
+}
+#border18 {
+    border: 4px solid rgb(84, 84, 238);
+}
+#border19 {
+    border-left:4px solid rgb(84, 84, 238);
+    border-top: 4px solid grey;
+    border-bottom: 4px solid red;
+    border-right: 4px solid black;
+
+}
+.box2 {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 30%;
+}
